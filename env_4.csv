@@ -1,0 +1,11 @@
+# Format: belongs_to_polygon, vertex_x, vertex_y. Notice that firts and last vertices do not belong to ant polygon. They are start and goal points.
+0, 2, 4
+1, 3, 3
+1, 3, 6
+1, 6, 6
+1, 5, 4
+1, 6, 3
+2, 10, 4
+2, 8, 2
+2, 8, 7
+3, 11, 5
